@@ -24,5 +24,5 @@ Like not all bestsellers have a high rating.
 
 ### In my presentation:
 I try to help place your book on the bestseller list by extrapolating the common characteristics from the bestsellers, such that the book is a cheap price and be non-fiction book.
-> *** you must download and run presentation in jupter nootbook to work with you.***
+> *** you must download and run presentation in jupter nootbook to work with you. ***
 > Eslam Abou-shashaa
